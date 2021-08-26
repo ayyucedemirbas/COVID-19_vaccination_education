@@ -16,4 +16,7 @@ Correlation between Less_than_high_school and Unvaccinated is: 0.919843774587247
 
 ![image](https://user-images.githubusercontent.com/8023150/129347197-872e9fde-7cb3-4c48-8fe2-96667e387f44.png)
 
-Please cite Demirbas, Ayse Ayyuce (2021), The correlation between education levels and COVID-19 vaccination in Turkey, Dryad, Dataset, https://doi.org/10.5061/dryad.6m905qg0s
+
+### Citation
+
+Demirbas, Ayse Ayyuce (2021), The correlation between education levels and COVID-19 vaccination in Turkey, Dryad, Dataset, https://doi.org/10.5061/dryad.6m905qg0s
