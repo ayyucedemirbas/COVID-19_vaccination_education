@@ -1,22 +1,25 @@
-# COVID-19_vaccination_education
-We investigate the correlation between COVID-19 vaccination percentages and education levels percentages of 36 cities of Turkey
-
-![image](https://user-images.githubusercontent.com/8023150/129346852-47f24881-aa39-4df1-aa3c-b28acb03786d.png)
+# COVID-19_vaccination_education Visualizations
 
 
-Correlation between Less_than_high_school and COVID-19_Vaccination is: -0.9190079429525275
+**Cities by College Educational Background**
+![1](https://user-images.githubusercontent.com/89684816/131233956-e6558ccf-c709-416c-a76e-30c237e4c50b.png)
 
-![image](https://user-images.githubusercontent.com/8023150/129346914-56d6e69b-4532-48e6-a018-7f00b40055d1.png)
+<br> 
 
-Correlation between Less_than_high_school and Unvaccinated is: 0.919843774587247
+**Cities by High School Educational Background**
+![2](https://user-images.githubusercontent.com/89684816/131233964-44faa606-f54e-4525-8be7-4014b3f9b528.png)
 
-![image](https://user-images.githubusercontent.com/8023150/129347174-00ed866e-577c-4af0-adeb-e8dede75009a.png)
+<br> 
 
+**Cities by Less than High School Educational Background**
+![3](https://user-images.githubusercontent.com/89684816/131233967-70218e7b-1d17-4f8f-8f2d-885bf2187fc7.png)
 
+<br> 
 
-![image](https://user-images.githubusercontent.com/8023150/129347197-872e9fde-7cb3-4c48-8fe2-96667e387f44.png)
+**Cities by Vaccination Rate**
+![4](https://user-images.githubusercontent.com/89684816/131233971-db726801-3995-4ff6-a4ed-1552e678c960.png)
 
+<br> 
 
-### Citation
-
-Demirbas, Ayse Ayyuce (2021), The correlation between education levels and COVID-19 vaccination in Turkey, Dryad, Dataset, https://doi.org/10.5061/dryad.6m905qg0s
+**Cities by Educational Background Distribution**
+![5](https://user-images.githubusercontent.com/89684816/131233977-bfeb061e-dd1e-4b64-a9e6-ac1380fe5892.png)
