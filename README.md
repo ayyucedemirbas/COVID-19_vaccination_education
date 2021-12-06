@@ -1,6 +1,7 @@
 # COVID-19_vaccination_education
 We investigate the correlation between COVID-19 vaccination percentages and education levels percentages of 36 cities of Turkey
 
+
 ![image](https://user-images.githubusercontent.com/8023150/129346852-47f24881-aa39-4df1-aa3c-b28acb03786d.png)
 
 
