@@ -1,6 +1,10 @@
 # COVID-19_vaccination_education
 We investigate the correlation between COVID-19 vaccination percentages and education levels percentages of 36 cities of Turkey
 
+### Citation
+
+Demirbas, Ayse Ayyuce (2021), The correlation between education levels and COVID-19 vaccination in Turkey, Dryad, Dataset, https://doi.org/10.5061/dryad.6m905qg0s
+
 
 ![image](https://user-images.githubusercontent.com/8023150/129346852-47f24881-aa39-4df1-aa3c-b28acb03786d.png)
 
@@ -34,6 +38,4 @@ Thanks to @atasayginodabasi for TurkeyVaccinationVisualization.ipynb file
 
 
 
-### Citation
 
-Demirbas, Ayse Ayyuce (2021), The correlation between education levels and COVID-19 vaccination in Turkey, Dryad, Dataset, https://doi.org/10.5061/dryad.6m905qg0s
